@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.36.0",
+    "playwright": "^1.35.1"
+  },
+  "name": "netologywinows",
+  "version": "1.0.0",
+  "main": "user.js",
+  "dependencies": {
+    "playwright-core": "^1.35.1"
+  },
+  "scripts": {
+    "test": "playwright test"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
